@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 //Componete gerenciado pelo spring
 @Component
-@FeignClient(name = "hr-worker", path = "/workers")
+@FeignClient(name = "${hr-worker.name}", url = "${hr-worker.url}")
 
 public interface WorkerFeignClient {
 

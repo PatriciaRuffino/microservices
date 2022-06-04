@@ -1,11 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca84ada5-a953-45f4-8869-534620053564" name="Changes" comment="" />
+    <list default="true" id="ca84ada5-a953-45f4-8869-534620053564" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hr-worker 2/src/main/java/com/dvsuperior/hrworker/entities/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-worker 2/src/main/java/com/dvsuperior/hrworker/repository/WorkerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-worker 2/src/main/java/com/dvsuperior/hrworker/resources/WorkerResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hr-worker 2/src/main/resources/create.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/java/com/devsuperior/hrpayroll/HrPayrollApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/hr-payroll/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/HrWorkerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/entities/Worker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/repository/WorkerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/java/com/devsuperior/resources/WorkerResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/main/resources/create.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hr-worker/src/test/java/com/devsuperior/hrworker/HrWorkerApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2A4OEwFEVg128zcpkN5SEJVQHiy" />
   <component name="ProjectViewState">
